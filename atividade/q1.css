@@ -1,0 +1,19 @@
+*{margin: none;}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+lv1{
+    height: 80%;
+    width: 80%;
+    background-color: beige;
+    border: 1px solid:#600 ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
